@@ -214,5 +214,5 @@ Endpoints → Pod IP
 
 Traffic → ✅ allowed
 
-🔹 Final One-Line Summary (Documentation Ready)
+🔹 Final One-Line Summary 
 Readiness probe checks whether a pod is ready to receive traffic. If it fails, Kubernetes removes the pod from service endpoints without restarting it, ensuring traffic is routed only to ready and healthy pods.
