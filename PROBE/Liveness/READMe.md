@@ -64,9 +64,11 @@ if __name__ == "__main__":
 ```
 ---
 
+<img width="363" height="244" alt="dockerfile" src="https://github.com/user-attachments/assets/00817814-4481-4025-909c-79561dc85106" />
+
+---
 ```
 🐳 2. Dockerfile
-<img width="363" height="244" alt="dockerfile" src="https://github.com/user-attachments/assets/00817814-4481-4025-909c-79561dc85106" />
 
 Dockerfile
 
